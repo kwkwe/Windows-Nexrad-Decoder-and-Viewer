@@ -1,5 +1,5 @@
 # Windows-Nexrad-Decoder-and-Viewer
-Rare Windows app (built in C#) to display, loop and auto-update super resolution (N0B) nexrad images.  I developed this over many years and would like to share with people who want a simple windows app. 
+Rare Windows app (built in C#) to display, loop and auto-update super resolution (N0B) nexrad images.  I developed this over many years and would like to share with people who want a simple windows app. This version expired 11/1/2025.  I might put more versions if there is interest.  Please send comments.
 
  *  C# .NET 2.0 program that animates and updates weather radar images.
  *
